@@ -1,0 +1,5 @@
+http://www.stuartcheshire.org/papers/NagleDelayedAck/
+https://en.wikipedia.org/wiki/TCP_delayed_acknowledgment
+https://serverfault.com/questions/834326/questions-about-nagle-vs-delayed-ack
+http://jvns.ca/blog/2015/11/21/why-you-should-understand-a-little-about-tcp/
+https://news.ycombinator.com/item?id=10607422
