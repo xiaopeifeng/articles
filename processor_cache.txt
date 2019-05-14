@@ -1,1 +1,5 @@
 http://igoro.com/archive/gallery-of-processor-cache-effects/
+
+http://simplygenius.net/Article/FalseSharing
+https://www.aristeia.com/TalkNotes/ACCU2011_CPUCaches.pdf
+https://nwcpp.org/talks/2007/Machine_Architecture_-_NWCPP.pdf
