@@ -3,3 +3,4 @@ http://igoro.com/archive/gallery-of-processor-cache-effects/
 http://simplygenius.net/Article/FalseSharing
 https://www.aristeia.com/TalkNotes/ACCU2011_CPUCaches.pdf
 https://nwcpp.org/talks/2007/Machine_Architecture_-_NWCPP.pdf
+https://www.usenix.org/legacy/publications/library/proceedings/als00/2000papers/papers/full_papers/sears/sears_html/index.html
