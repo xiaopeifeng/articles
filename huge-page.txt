@@ -1,0 +1,3 @@
+https://orainternals.files.wordpress.com/2008/10/high_cpu_usage_hugepages.pdf
+https://www.ibm.com/developerworks/community/blogs/fe313521-2e95-46f2-817d-44a4f27eba32/entry/benefits_of_huge_pages?lang=en
+https://techoverflow.net/2017/02/18/advantages-and-disadvantages-of-hugepages/
